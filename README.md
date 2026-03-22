@@ -4,7 +4,6 @@
 
 **Systems Programming | DevOps| Cybersecurity | Software Engineering**
 
-Portfolio [link here!](https://saintnong.github.io/portfolio/)
 
-I like coding 🙂
+I really like coding 🙂
 </div>
