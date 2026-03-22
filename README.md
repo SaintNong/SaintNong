@@ -2,7 +2,7 @@
 
 # Hi, I'm Ning 👋
 
-**Systems Programming | DevOps| Cybersecurity | Software Engineering**
+**Systems Programming | Software Engineering | Security**
 
 
 I really like coding 🙂
